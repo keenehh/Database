@@ -45,7 +45,7 @@ For adding a customer I referenced the hashtable from the demos but I would need
 
 # add customer to list
 
-For adding a customer to the list I also referenced the hashtable demo from class. I would just need to add more arguments since there are more values
+For adding a customer to the list I also referenced the hashtable demo from a class. I would just need to add more arguments since there are more values
 
 ```
 	create a new customer
