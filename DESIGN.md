@@ -1,8 +1,4 @@
-# Homework 7: Hash tables, I/O and Strings
-
-# Purpose: 
-
-The purpose of this homework is to design and implement a simple database that will allow us to keep track of our customers and their information that we know about them. I will need to build a simple interface around this database that will allow me to read a database file from the disk, add customers, delete cuustomers, and save the database back to the file. I would need to store these customers into a hash table
+The purpose of this project was to design and implement a simple database that will allow us to keep track of our customers and their information that we know about them. I would need to build a simple interface around this database that will allow me to read a database file from the disk, add customers, delete cuustomers, and save the database back to the file. I would need to store these customers into a hash table
 
 # typedef struct
 
